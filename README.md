@@ -26,5 +26,7 @@ For support and other details, please contact [Kwasi Boakye-Boateng](mailto:kwas
 
 # Contributors
 [Ida Sri Rejeki Siahaan](mailto:ida.siahaan@unb.ca)
+
 [Mahdi Abrishami](mailto:mahdi.abrishami@unb.ca)
+
 [Kwasi Boakye-Boateng](mailto:kwasi.boakye-boateng@unb.ca)
