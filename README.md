@@ -20,3 +20,11 @@ A README.md file is available for each protocol design as well.
 **Note:** In our design (in different protocols), we have defined fields as required or optional. However, it (being required or optional) can be changed based on the requirements for some fields (by adding or removing "required=True" in the definitions).
 
 `**Note:** Examples provided (as instances in example directory for each protocol or protocol variation) are not based on real scenarios or values and are just to provide a general understanding of how the models work and also to check the models.
+
+# Support
+For support and other details, please contact [Kwasi Boakye-Boateng](mailto:kwasi.boakye-boateng@unb.ca).
+
+# Contributors
+[Ida Sri Rejeki Siahaan](mailto:ida.siahaan@unb.ca)
+[Mahdi Abrishami](mailto:mahdi.abrishami@unb.ca)
+[Kwasi Boakye-Boateng](mailto:kwasi.boakye-boateng@unb.ca)
